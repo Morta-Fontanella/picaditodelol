@@ -31,6 +31,7 @@ body {
     margin-left: 3rem;
     width: 10rem;
     height: 10rem;
+    transition: all 0.1s;
 }
 
 .logo-nav-container {
@@ -136,4 +137,13 @@ body {
         padding-left: 3rem;
         padding-right: 3rem;
     }
+
+    .logo-img {
+        margin-top: 0.2rem;
+        margin-left: 1rem;
+        width: 8rem;
+        height: 8rem;
+    }
 }
+
+
